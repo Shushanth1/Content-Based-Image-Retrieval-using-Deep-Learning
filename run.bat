@@ -1,0 +1,2 @@
+python CBIR.py
+pause
